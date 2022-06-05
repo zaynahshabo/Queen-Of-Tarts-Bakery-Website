@@ -14,4 +14,4 @@
 - JQuery
 - Bootstrap 5
 
-![bakery](https://www.canva.com/design/DAFCrT_wyJc/4f87uogCIHgX5ulYbjnRFA/watch?utm_content=DAFCrT_wyJc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+![bakery]([https://www.canva.com/design/DAFCrT_wyJc/4f87uogCIHgX5ulYbjnRFA/watch?utm_content=DAFCrT_wyJc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink](https://github.com/zaynahshabo/Queen-Of-Tarts-Bakery-Website/blob/main/Bakery-Gif.gif))
