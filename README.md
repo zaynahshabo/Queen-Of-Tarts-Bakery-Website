@@ -15,3 +15,4 @@
 - Bootstrap 5
 
 ![bakery](https://github.com/zaynahshabo/Queen-Of-Tarts-Bakery-Website/blob/main/Bakery-Gif.gif)
+![bakery](https://github.com/zaynahshabo/Queen-Of-Tarts-Bakery-Website/blob/main/Smaller%20Screenshot.png)
